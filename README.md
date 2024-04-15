@@ -6,7 +6,7 @@
 
 *Изучаю языки HTML / CSS / JavaScript / Git /*  
 *Изучил TypeScript / Emmet /*  
-*Далее Vue / React*
+*Далее Vue / React*  
 [Ссылка на урок Git / Git-Hub](https://gennadiy99.github.io/Test-IT_Doc/)
 <!--
 - 🔭 I’m currently working on ...
